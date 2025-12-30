@@ -1,6 +1,6 @@
 Name:		python-signedjson
 Version:	1.1.4
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/s/signedjson/signedjson-%{version}.tar.gz
 Summary:	Sign JSON with Ed25519 signatures
 URL:		https://pypi.org/project/signedjson/
